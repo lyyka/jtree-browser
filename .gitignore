@@ -1,3 +1,6 @@
+# Netbeans build
+./build/*
+
 # Compiled class file
 *.class
 
